@@ -8,10 +8,10 @@ require("./partials/header.php");
                     <div class="row-fluid table-view fullwidth">
                         <div class="box-service col-md-3">
                             <div class="bg-color-fx padding-5 text-center">
-                                <h3>Ocean Freight</h3>
+                                <h3>Petroleum Materials</h3>
                                 <div class="tiny-border margintop10 marginbottom10"></div>
-                                <img src="img/services/1.png" class="img-responsive margintop20 marginbottom20 wow fadeInRight" alt="" />
-                                <p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem</p>
+                                <img src="/img/services/petroleum.png" class="img-responsive margintop20 marginbottom20 wow fadeInRight" alt="" />
+                                <p>Petroleum materials and land transportation</p>
                                 <a href="service-details-1.html" class="btn-arrow hover-light"><span class="line"></span><span class="url">View Details</span></a>
                             </div>
                         </div>
@@ -19,30 +19,31 @@ require("./partials/header.php");
 
                         <div class="box-service col-md-3">
                             <div class="bg-color-fx padding-5 text-center">
-                                <h3>Air Freight</h3>
+                                <h3>Waste Cleaning</h3>
                                 <div class="tiny-border margintop10 marginbottom10"></div>
-                                <img src="img/services/2.png" class="img-responsive margintop20 marginbottom20 wow fadeInRight" data-wow-delay=".3s" alt="" />
-                                <p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem</p>
+                                <img src="img/services/waste.png" class="img-responsive margintop20 marginbottom20 wow fadeInRight" data-wow-delay=".3s" alt="" />
+                                <p> Building Demolition and Other Constructions and Debris Clearing
+</p>
                                 <a href="service-details-1.html" class="btn-arrow hover-light"><span class="line"></span><span class="url">View Details</span></a>
                             </div>
                         </div>
 
                         <div class="box-service col-md-3">
                             <div class="bg-color-fx padding-5 text-center">
-                                <h3>Contract Logistic</h3>
+                                <h3>Onshore Offshore Expertise</h3>
                                 <div class="tiny-border margintop10 marginbottom10"></div>
-                                <img src="img/services/3.png" class="img-responsive margintop20 marginbottom20 wow fadeInRight" data-wow-delay=".6s" alt="" />
-                                <p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem</p>
+                                <img src="img/services/offshore.png" class="img-responsive margintop20 marginbottom20 wow fadeInRight" data-wow-delay=".6s" alt="" />
+                                <p>Onshore and offshore oil and gas fields and facilities services</p>
                                 <a href="service-details-1.html" class="btn-arrow hover-light"><span class="line"></span><span class="url">View Details</span></a>
                             </div>
                         </div>
 
                         <div class="box-service col-md-3">
                             <div class="bg-color-fx padding-5 text-center">
-                                <h3>Cargo Express</h3>
+                                <h3>Transport Assembly Solutions</h3>
                                 <div class="tiny-border margintop10 marginbottom10"></div>
-                                <img src="img/services/4.png" class="img-responsive margintop20 marginbottom20 wow fadeInRight" data-wow-delay=".9s" alt="" />
-                                <p>Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem</p>
+                                <img src="img/services/8.png" class="img-responsive margintop20 marginbottom20 wow fadeInRight" data-wow-delay=".9s" alt="" />
+                                <p>Transport of materials, assembly of heavy & light trucks</p>
                                 <a href="service-details-1.html" class="btn-arrow hover-light"><span class="line"></span><span class="url">View Details</span></a>
                             </div>
                         </div>
@@ -75,7 +76,7 @@ require("./partials/header.php");
                                             <div class="col-md-6">
                                                 <h3><span class="id-color">Vision</span></h3>
                                                 <p>
-                                                    Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. 
+                                                To be the leading provider of innovative and reliable transportation and assembly solutions for heavy and light trucks, making transportation easy and efficient for our customers.
 								
 								<br>
                                                     <br>
@@ -87,7 +88,7 @@ require("./partials/header.php");
                                             <div class="col-md-6">
                                                 <h3><span class="id-color">Mission</span></h3>
                                                 <p>
-                                                    Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. 
+                                                Our mission is to provide our customers with high-quality, safe, and reliable transportation and assembly services for heavy and light trucks. We strive to be the best in our field by continuously innovating and improving our services and processes, and by building strong relationships with our customers and partners.
 								
 								<br>
                                                     <br>
@@ -110,138 +111,7 @@ require("./partials/header.php");
 
 
 
-            <!-- section begin -->
-            <section id="section-track" class="no-padding light-text alt">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-9">
-                            <div class="row">
-                                <div class="col-md-7 no-padding">
-                                    <div class="inner">
-                                        <h3>Track &amp; Trace</h3>
-                                        <span>Already have a load ID, please insert it below</span>
-                                    </div>
-                                </div>
-                                <div class="col-md-5 no-padding">
-                                    <input class="input-fullwidth" name="track" id="track">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-3">
-                            <a id="track-it" href="#section-tracking-result" class="btn-custom btn-fullwidth">Track it</a>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- section close -->
-
-            <!-- section begin -->
-            <section id="section-tracking-result" class="light-text no-margin">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-8 col-md-offset-2">
-                            <div class="divider-double"></div>
-                            <div class="text-center">
-                                <h3><span class="grey">Product ID:</span> 112345679087328</h3>
-                            </div>
-
-
-                            <div class="divider-double"></div>
-
-                            <div class="wrapper-line padding40 rounded10 mb80">
-
-
-                                <ul class="progress">
-                                    <li><a href="#">Accepted</a></li>
-                                    <li class="beforeactive"><a href="#">Order Processing</a></li>
-                                    <li class="active"><a href="#">Shipment Pending</a></li>
-                                    <li><a href="#">Estimated Delivery</a></li>
-                                </ul>
-
-                                <div class="divider-double"></div>
-
-                                <ul class="timeline custom-tl">
-
-                                    <li class="timeline-inverted">
-                                        <div class="timeline-date wow zoomIn" data-wow-delay=".2s">
-                                            Nov 03, 2016
-		  <span>20:07 pm</span>
-                                        </div>
-                                        <div class="timeline-badge success"><i class="fa fa-check-square-o wow zoomIn"></i></div>
-                                        <div class="timeline-panel wow fadeInRight" data-wow-delay=".6s">
-                                            <div class="timeline-body">
-                                                The shipment has been successfully delivered 
-			  <span class="location">Baker Street, UK <a href="https://maps.google.com/maps?q=221B+Baker+Street,+London,+United+Kingdom&amp;hl=en&amp;t=v&amp;hnear=221B+Baker+St,+London+NW1+6XE,+United+Kingdom" class="popup-gmaps">view on map</a></span>
-                                            </div>
-                                        </div>
-                                    </li>
-
-                                    <li class="timeline-inverted">
-                                        <div class="timeline-date wow zoomIn" data-wow-delay=".2s">
-                                            Nov 03, 2016
-		  <span>20:07 pm</span>
-                                        </div>
-                                        <div class="timeline-badge warning"><i class="fa fa-warning wow zoomIn"></i></div>
-                                        <div class="timeline-panel wow fadeInRight" data-wow-delay=".6s">
-                                            <div class="timeline-body">
-                                                The shipment could not be delivered 
-			  <span class="location">Baker Street, UK <a href="https://maps.google.com/maps?q=221B+Baker+Street,+London,+United+Kingdom&amp;hl=en&amp;t=v&amp;hnear=221B+Baker+St,+London+NW1+6XE,+United+Kingdom" class="popup-gmaps">view on map</a></span>
-                                            </div>
-                                        </div>
-                                    </li>
-
-                                    <li class="timeline-inverted">
-                                        <div class="timeline-date wow zoomIn" data-wow-delay=".2s">
-                                            Nov 03, 2016
-		  <span>20:07 pm</span>
-                                        </div>
-                                        <div class="timeline-badge"><i class="fa fa-plane wow zoomIn"></i></div>
-                                        <div class="timeline-panel wow fadeInRight" data-wow-delay=".6s">
-                                            <div class="timeline-body">
-                                                The shipment has arrived in destination country
-			  <span class="location">Baker Street, UK <a href="https://maps.google.com/maps?q=221B+Baker+Street,+London,+United+Kingdom&amp;hl=en&amp;t=v&amp;hnear=221B+Baker+St,+London+NW1+6XE,+United+Kingdom" class="popup-gmaps">view on map</a></span>
-                                            </div>
-                                        </div>
-                                    </li>
-
-                                    <li class="timeline-inverted">
-                                        <div class="timeline-date wow zoomIn" data-wow-delay=".2s">
-                                            Nov 02, 2015
-		  <span>18:05 pm</span>
-                                        </div>
-                                        <div class="timeline-badge"><i class="fa fa-plane wow zoomIn"></i></div>
-                                        <div class="timeline-panel wow fadeInRight" data-wow-delay=".6s">
-                                            <div class="timeline-body">
-                                                The shipment is being transformed to destination country
-			  <span class="location">Baker Street, UK <a href="https://maps.google.com/maps?q=221B+Baker+Street,+London,+United+Kingdom&amp;hl=en&amp;t=v&amp;hnear=221B+Baker+St,+London+NW1+6XE,+United+Kingdom" class="popup-gmaps">view on map</a></span>
-                                            </div>
-                                        </div>
-                                    </li>
-
-                                    <li class="timeline-inverted">
-                                        <div class="timeline-date wow zoomIn" data-wow-delay=".2s">
-                                            Nov 01, 2015
-		  <span>10:08 pm</span>
-                                        </div>
-                                        <div class="timeline-badge"><i class="fa fa-plane wow zoomIn"></i></div>
-                                        <div class="timeline-panel wow fadeInRight" data-wow-delay=".6s">
-                                            <div class="timeline-body">
-                                                The international shipment has been processed
-			  <span class="location">Baker Street, UK <a href="https://maps.google.com/maps?q=221B+Baker+Street,+London,+United+Kingdom&amp;hl=en&amp;t=v&amp;hnear=221B+Baker+St,+London+NW1+6XE,+United+Kingdom" class="popup-gmaps">view on map</a></span>
-                                            </div>
-                                        </div>
-                                    </li>
-                                </ul>
-
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- section close -->
-
-
+            
             <!-- section begin -->
             <section id="explore-6" class="side-bg">
                 <div class="col-md-6 col-md-offset-6 pull-right image-container">
@@ -258,30 +128,31 @@ require("./partials/header.php");
 
                                 <div class="marginbottom30 wow fadeInUp" data-wow-delay=".2s">
                                     <div class="box-icon-small">
-                                        <i class="fa fa-user"></i>
+                                        
+                                    <i class="fa fa-solid fa-certificate"></i>
                                         <div class="text">
-                                            <h4>Customer Satisfication Tools</h4>
-                                            <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo.</p>
+                                            <h4>Environmental Management and Compliance</h4>
+                                            <p>Our company is committed to environmental management and compliance with international standards.</p>
                                         </div>
                                     </div>
                                 </div>
 
                                 <div class="marginbottom30 wow fadeInUp" data-wow-delay=".4s">
                                     <div class="box-icon-small">
-                                        <i class="fa fa-bar-chart"></i>
+                                    <i class="fa fa-solid fa-check"></i>
                                         <div class="text">
-                                            <h4>Management and Reporting</h4>
-                                            <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo.</p>
+                                            <h4>Quality Assurance</h4>
+                                            <p>We are committed to providing high-quality services that meet or exceed the expectations of our customers. Our ISO 14001:2015 certification and ICV AUP verification show that our processes are regularly audited and verified to ensure that we are meeting the highest standards of quality.</p>
                                         </div>
                                     </div>
                                 </div>
 
                                 <div class="marginbottom30 wow fadeInUp" data-wow-delay=".6s">
                                     <div class="box-icon-small">
-                                        <i class="fa fa-tags"></i>
+                                    <i class="fa fa-solid fa-briefcase"></i>
                                         <div class="text">
-                                            <h4>Freight Payment Solutions</h4>
-                                            <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo.</p>
+                                            <h4>Trust and Reliability</h4>
+                                            <p>Our company's certifications help to build trust with our customers, who can be assured that we are committed to environmental management, quality assurance, and compliance. We strive to be a reliable and trustworthy partner for our customers' needs.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -294,16 +165,17 @@ require("./partials/header.php");
 
                                 <div class="padding40 overlaydark90 light-text">
 
-                                    <h2 class="id-color">Gocargo Commitment</h2>
+                                    <h2 class="id-color">Competitive Advantage</h2>
                                     <div class="tiny-border"></div>
-                                    <p class="lead big">
-                                        <i>We are commited to be the leading logistic solutions provider to our customer. We continually improving & implementing  a quality management to achieve it
-to achieve it</i>
+                                    <p class="lead small">
+                                        <i>Our ISO 14001:2015 certification and ICV AUP verification give us an advantage over our competitors who are not certified or verified. It helps to differentiate our company from others in the market and shows our commitment to excellence in all aspects of our business.</i>
                                     </p>
-                                    <img src="img/about/signature.png" alt="">
+                                    <div class="flex img-fluid">
+                                    <img src="/img/about/iso.png" alt="">
+                                    <img src="/img/about/icv.png" alt="">
+                                    </div>
                                     <div class="divider-single"></div>
-                                    <strong>John Rukman</strong>, Vice President<br>
-                                    Gocargo Inc						
+                                    					
 								<br>
                                 </div>
 
@@ -317,101 +189,6 @@ to achieve it</i>
             </section>
             <!-- section close -->
 
-
-            <!-- section begin -->
-            <section id="section-news" class="side-bg">
-
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12 wow fadeIn">
-                            <h2>Company News</h2>
-                            <div class="divider-deco"><span></span></div>
-
-                            <div class="row">
-                                <div class="col-md-4 news-item style-2">
-
-                                    <figure class="pic-hover">
-                                        <span class="center-xy">
-                                            <a class="popup-youtube" href="https://www.youtube.com/watch?v=OGgWneUreb0"><i class="fa fa-play btn-action btn-play"></i></a>
-                                        </span>
-                                        <span class="bg-overlay"></span>
-                                        <img src="img/news/news_1.jpg" class="img-responsive" alt="">
-                                    </figure>
-
-                                    <div class="inner">
-                                        <div class="date">
-                                            <span class="day">20</span>
-                                            <span class="month">Aug</span>
-                                        </div>
-
-                                        <div class="desc">
-                                            <a href="#">
-                                                <h4>Gocargo Says Happy New Years</h4>
-                                            </a>
-                                            Etiam pharetra, erat sed fermentum feugiat, velit mauris egest...
-											<br>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="col-md-4 news-item style-2">
-
-                                    <figure class="pic-hover">
-                                        <span class="center-xy"></span>
-                                        <span class="bg-overlay"></span>
-                                        <img src="img/news/news_2.jpg" class="img-responsive" alt="">
-                                    </figure>
-
-                                    <div class="inner">
-                                        <div class="date">
-                                            <span class="day">18</span>
-                                            <span class="month">Aug</span>
-                                        </div>
-
-                                        <div class="desc">
-                                            <a href="#">
-                                                <h4>Gocargo Says Happy New Years</h4>
-                                            </a>
-                                            Etiam pharetra, erat sed fermentum feugiat, velit mauris egest...
-											<br>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="col-md-4 news-item style-2">
-
-                                    <figure class="pic-hover">
-                                        <span class="center-xy"></span>
-                                        <span class="bg-overlay"></span>
-                                        <img src="img/news/news_3.jpg" class="img-responsive" alt="">
-                                    </figure>
-
-                                    <div class="inner">
-                                        <div class="date">
-                                            <span class="day">10</span>
-                                            <span class="month">Aug</span>
-                                        </div>
-
-                                        <div class="desc">
-                                            <a href="#">
-                                                <h4>Gocargo Says Happy New Years</h4>
-                                            </a>
-                                            Etiam pharetra, erat sed fermentum feugiat, velit mauris egest...
-											<br>
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-
-
-                    </div>
-
-                    <div class="clearfix"></div>
-
-                </div>
-            </section>
 
             <!-- section begin -->
             <section id="section-cta-2" class="cta light-text" data-stellar-background-ratio="0.5">

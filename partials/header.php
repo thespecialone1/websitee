@@ -51,8 +51,7 @@
                                         <li><a href="services-2.html">Petroleum Materials Land Transportation</a></li>
                                         <li><a href="#">Waste Material's Transportation</a>
                                             <ul>
-                                                <li><a href="service-details-1.html">Water Waste Transportation</a></li>
-                                                <li><a href="service-details-2.html">Metal Waste Transportation</a></li>
+                                                <li><a href="service-details-1.html">Water & Metal Waste Transportation</a></li>
                                                 <li><a href="service-details-3.html">Concrete Waste Transportation</a></li>
                                                 <li><a href="service-details-4.html">Non-Metalic Waste Transportation</a></li>
                                                 <li><a href="service-details-5.html">Transport & Collectionn of Garbage</a></li>
@@ -66,15 +65,8 @@
                                         </li>
                                     </ul>
                                 </li>
-                                <li><a href="about.html">About Us</a>
+                                <li><a href="about.php">About Us</a>
                                     <ul>
-                                        <li><a href="#">About</a>
-                                            <ul>
-                                                <li><a href="about.html">About Us 1</a></li>
-                                                <li><a href="about-2.html">About Us 2</a></li>
-                                                <li><a href="about-3.html">About Us 3</a></li>
-                                            </ul>
-                                        </li>
                                         <li><a href="#">Clients</a>
                                             <ul>
                                                 <li><a href="clients.html">Clients 1</a></li>
@@ -127,9 +119,9 @@
                             <div class="row">
                                 <div class="col-md-12">
                                     <h1 class="text-ultra-big wow fadeInRight" data-wow-duration="1.5s">
-                                        <span class="id-color">We are the leading</span><br>
-                                        WORLDWIDE<br>
-                                        FREIGHT FORWARD</h1>
+                                        <span class="id-color">Efficient and Reliable transportation solutions</span><br>
+                                        BALAYARA GENERAL<br>
+                                        TRANSPORT</h1>
                                     <a href="#" class="btn btn-custom wow fadeInUp" data-wow-duration="2s">Get Rate Quote</a>
                                 </div>
                                 <div class="divider-double"></div>
@@ -159,7 +151,8 @@
                                 <i class="fa fa-home"></i>
                                 <div class="info-box_text">
                                     <div class="info-box_title">Our Location</div>
-                                    <div class="info-box_subtite">777 Street Fourth Avenue</div>
+                                    <div class="info-box_subtite">Elite Business Zone Investment Block A,
+Musaffah 44, ABU DHABI, UAE</div>
                                 </div>
                             </div>
                         </div>
