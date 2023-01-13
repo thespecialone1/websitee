@@ -1,0 +1,77 @@
+  <!-- header begin -->
+  <header>
+            <div class="container">
+                <span id="menu-btn"></span>
+
+                <div class="row">
+                    <div class="col-md-3">
+
+                        <!-- logo begin -->
+                        <div id="logo">
+                            <div class="inner">
+                                <a href="/index.php">
+                                    <img src="/img/logo.png" alt="" class="logo-1">
+                                    <img src="/img/logo.png" alt="" class="logo-2">
+                                </a>
+
+                            </div>
+                        </div>
+                        <!-- logo close -->
+
+                    </div>
+
+                    <div class="col-md-9">
+
+                        <!-- mainmenu begin -->
+                        <nav id="mainmenu-container">
+                            <ul id="mainmenu">
+                                <li><a href="/index.php">Home</a>
+                                </li>
+                                <li><a href="/services/services.php">Services</a>
+                                    <ul>
+                                        <li><a href="services-2.html">Petroleum Materials Land Transportation</a></li>
+                                        <li><a href="#">Waste Material's Transportation</a>
+                                            <ul>
+                                                <li><a href="service-details-1.html">Water Waste Transportation</a></li>
+                                                <li><a href="service-details-2.html">Metal Waste Transportation</a></li>
+                                                <li><a href="service-details-3.html">Concrete Waste Transportation</a></li>
+                                                <li><a href="service-details-4.html">Non-Metalic Waste Transportation</a></li>
+                                                <li><a href="service-details-5.html">Transport & Collectionn of Garbage</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="#">Transport of Materials Assembly</a>
+                                            <ul>
+                                                <li><a href="service-details-alt-2.html">Light Trucks</a></li>
+                                                <li><a href="service-details-alt-2.html">Heavy Trucks</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li><a href="/about.php">About Us</a>
+                                </li>
+                                <li><a href="#">News</a>
+                                    <ul>
+                                        <li><a href="news.html">News Layout 1</a></li>
+                                        <li><a href="news-2.html">News Layout 2</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="gallery.html">Gallery</a></li>
+                                <li><a href="contact.html">Contact</a></li>
+                            </ul>
+                        </nav>
+                        <!-- mainmenu close -->
+
+                        <!-- search -->
+                        <div class="search text-right">
+                            <input type="text" name="search" id="search" placeholder="search">
+                            <button type="submit" class="btn-search-icon">
+                                <i class="fa fa-search"></i>
+                            </button>
+                        </div>
+                        <!-- social icons close -->
+
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- header close -->
