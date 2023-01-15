@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from www.exotheme.com/gocargo-recharge/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 12 Jan 2023 13:00:50 GMT -->
 <head>
     <meta charset="utf-8">
-    <title>GoCargo - Freight, Logistics & Transportation Website Template</title>
+    <title>Bal Ayara Gen. Transport Company Website</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -67,28 +66,12 @@
                                 </li>
                                 <li><a href="about.php">About Us</a>
                                     <ul>
-                                        <li><a href="#">Clients</a>
-                                            <ul>
-                                                <li><a href="clients.html">Clients 1</a></li>
-                                                <li><a href="clients-2.html">Clients 2</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="company.html">Company</a></li>
                                         <li><a href="people.html">People</a></li>
-                                        <li><a href="history.html">History</a></li>
                                         <li><a href="testimonials.html">Testimonials</a></li>
-                                        <li><a href="careers.html">Careers</a></li>
-                                        <li><a href="faq.html">FAQ</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="#">News</a>
-                                    <ul>
-                                        <li><a href="news.html">News Layout 1</a></li>
-                                        <li><a href="news-2.html">News Layout 2</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="gallery.html">Gallery</a></li>
-                                <li><a href="contact.html">Contact</a></li>
+                                <li><a href="contact.php">Contact</a></li>
                             </ul>
                         </nav>
                         <!-- mainmenu close -->
@@ -122,7 +105,7 @@
                                         <span class="id-color">Efficient and Reliable transportation solutions</span><br>
                                         BALAYARA GENERAL<br>
                                         TRANSPORT</h1>
-                                    <a href="#" class="btn btn-custom wow fadeInUp" data-wow-duration="2s">Get Rate Quote</a>
+                                    <a href="contact.php" class="btn btn-custom wow fadeInUp" data-wow-duration="2s">Get Rate Quote</a>
                                 </div>
                                 <div class="divider-double"></div>
                             </div>

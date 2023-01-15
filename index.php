@@ -4,52 +4,50 @@ require("./partials/header.php");
 
             <!-- section begin -->
             <section class="no-padding">
-                <div class="container-fluid">
-                    <div class="row-fluid table-view fullwidth">
-                        <div class="box-service col-md-3">
+                <div class="container-fullwidth">
+                        <div id="box-service-1" class=" one-fourth">
                             <div class="bg-color-fx padding-5 text-center">
                                 <h3>Petroleum Materials</h3>
                                 <div class="tiny-border margintop10 marginbottom10"></div>
-                                <img src="/img/services/petroleum.png" class="img-responsive margintop20 marginbottom20 wow fadeInRight" alt="" />
-                                <p>Petroleum materials and land transportation</p>
-                                <a href="service-details-1.html" class="btn-arrow hover-light"><span class="line"></span><span class="url">View Details</span></a>
+                                <img src="/img/services/petroleum.png" class="img-responsive margintop20 marginbottom20 wow fadeInRight " alt="" />
+                                <p>Petroleum materials and land transportation in UAE and outside of UAE</p>
+                                <a href="service-details.php" class="btn-arrow hover-light"><span class="line"></span><span class="url">View Details</span></a>
                             </div>
                         </div>
 
 
-                        <div class="box-service col-md-3">
+                        <div id="box-service-2" class="one-fourth">
                             <div class="bg-color-fx padding-5 text-center">
                                 <h3>Waste Cleaning</h3>
                                 <div class="tiny-border margintop10 marginbottom10"></div>
                                 <img src="img/services/waste.png" class="img-responsive margintop20 marginbottom20 wow fadeInRight" data-wow-delay=".3s" alt="" />
                                 <p> Building Demolition and Other Constructions and Debris Clearing
 </p>
-                                <a href="service-details-1.html" class="btn-arrow hover-light"><span class="line"></span><span class="url">View Details</span></a>
+                                <a href="service-details.php" class="btn-arrow hover-light"><span class="line"></span><span class="url">View Details</span></a>
                             </div>
                         </div>
 
-                        <div class="box-service col-md-3">
+                        <div id="box-service-3" class=" one-fourth">
                             <div class="bg-color-fx padding-5 text-center">
                                 <h3>Onshore Offshore Expertise</h3>
                                 <div class="tiny-border margintop10 marginbottom10"></div>
                                 <img src="img/services/offshore.png" class="img-responsive margintop20 marginbottom20 wow fadeInRight" data-wow-delay=".6s" alt="" />
                                 <p>Onshore and offshore oil and gas fields and facilities services</p>
-                                <a href="service-details-1.html" class="btn-arrow hover-light"><span class="line"></span><span class="url">View Details</span></a>
+                                <a href="service-details.php" class="btn-arrow hover-light"><span class="line"></span><span class="url">View Details</span></a>
                             </div>
                         </div>
 
-                        <div class="box-service col-md-3">
+                        <div id="box-service-4" class=" one-fourth">
                             <div class="bg-color-fx padding-5 text-center">
                                 <h3>Transport Assembly Solutions</h3>
                                 <div class="tiny-border margintop10 marginbottom10"></div>
                                 <img src="img/services/8.png" class="img-responsive margintop20 marginbottom20 wow fadeInRight" data-wow-delay=".9s" alt="" />
                                 <p>Transport of materials, assembly of heavy & light trucks</p>
-                                <a href="service-details-1.html" class="btn-arrow hover-light"><span class="line"></span><span class="url">View Details</span></a>
+                                <a href="service-details.php" class="btn-arrow hover-light"><span class="line"></span><span class="url">View Details</span></a>
                             </div>
                         </div>
-
+                        
                         <div class="clearfix"></div>
-                    </div>
                 </div>
             </section>
             <!-- section close -->
