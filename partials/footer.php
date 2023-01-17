@@ -9,7 +9,8 @@
                         <h3>About Us</h3>
                         <img src="img/logo.png" alt="" class="marginbottom20">
                         <div class="clearfix"></div>
-                        Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae.
+                        Balayara Gen Transport (famously known as BGT) is UAE's leading integrated supply chain and logistics
+solutions provider and a pioneer in the sphere of transportation Service in UAE. Leveraging on its...
 							<br>
                         <a href="#" class="btn-arrow id-color hover-light"><span class="line"></span><span class="url">View Details</span></a>
                     </div>
@@ -53,7 +54,7 @@
         </div>
 
         <div class="subfooter">
-            &copy; Copyright 2016 - GoCargo by ExoTheme
+            &copy; Balayara General Transport, UAE
         </div>
     </footer>
     <!-- footer close -->
@@ -84,5 +85,4 @@
 
 </body>
 
-<!-- Mirrored from www.exotheme.com/gocargo-recharge/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 12 Jan 2023 13:03:40 GMT -->
 </html>
