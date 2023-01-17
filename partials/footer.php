@@ -7,7 +7,8 @@
                 <div class="col-md-3">
                     <div class="widget widget_tags">
                         <h3>About Us</h3>
-                        <img src="img/logo.png" alt="" class="marginbottom20">
+                        <a href="#"><img src="img/trucks/logo5.png" alt="" class="marginbottom20"></a>
+                        
                         <div class="clearfix"></div>
                         Balayara Gen Transport (famously known as BGT) is UAE's leading integrated supply chain and logistics
 solutions provider and a pioneer in the sphere of transportation Service in UAE. Leveraging on its...
@@ -18,7 +19,7 @@ solutions provider and a pioneer in the sphere of transportation Service in UAE.
 
                 <div class="col-md-3">
                     <div class="widget">
-                        <h3>Twitter Feeds</h3>
+                        <h3>             </h3>
                         <div id="tweecool" class="twitter-widget"></div>
 
 

@@ -35,17 +35,29 @@ require("./partials/header-1.php");
                     <div class="row">
                         <div class="col-md-6">
 
-                            <img src="img/home/imac.png" alt="" class="wow slideInUp" />
+                            <img src="img/trucks/abt.jpg" alt="" class="wow slideInUp" />
 
                         </div>
 
                         <div class="col-md-6">
                             <h2>The Most Progressive Company</h2>
-                            <p class="lead">Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate </p>
+                            <p class="lead">Balayara Gen Transport (famously known as BGT) is UAE's leading integrated supply chain and logistics
+solutions provider and a pioneer in the sphere of transportation Service in UAE.  </p>
                             <div class="divider-deco"><span></span></div>
                             <p>
-                                Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-                            </p>
+                            Balayara Gen Transport (famously known as BGT) is UAE's leading integrated supply chain and logistics
+solutions provider and a pioneer in the sphere of transportation Service in UAE. Leveraging on its
+extensive infrastructure, strong foundation and skilled manpower, BGT offers seamless multimodal
+transportation solutions.AnISO9001:2015, ISO14001:2015 & OHSAS18001:2007 certified company, BGT is
+a most trustable partner for your requirements.
+<br>
+The company progressed from being a "One Man, OneTruck, OneOffice" set up to becoming UAE's leading
+Logistics& Supply Chain Solutions provider. <br><br>
+BGT has an extensive network of company owned offices, a huge fleet of customized vehicles and managed
+warehouse and a strong work force. With its customer-centric approach, world class resources, State-of-Art
+technology and professional management, the group follows strong corporate governance principles and is
+committed to value creation for its stake holders and its social responsibilities.
+</p>
                         </div>
                     </div>
                 </div>
@@ -59,18 +71,47 @@ require("./partials/header-1.php");
                         <div class="col-md-8">
                             <div class="row">
                                 <div class="col-md-6">
-                                    <h2>Mission &amp; Vision</h2>
+                                    <h2>Culture, Value &amp; Ethics</h2>
                                     <div class="divider-deco"><span></span></div>
-                                    <h4>Mission</h4>
-                                    Our mission is to provide our customers with high-quality, safe, and reliable transportation and assembly services for heavy and light trucks. We strive to be the best in our field by continuously innovating and improving our services and processes, and by building strong relationships with our customers and partners.							
-							<h4>Vision</h4>
-                            To be the leading provider of innovative and reliable transportation and assembly solutions for heavy and light trucks, making transportation easy and efficient for our customers.                                </div>
-
+                                    <h4>We believe in our rich value system and for us, value creates money.</h4>
+							<p>We have always stood byour commitment to create integrated supplychains for our customers, with
+respect to our practices and procedureslike:</p>
+<ul>
+    <li>
+    Maximum utilization of all fixed assets 
+    </li>
+    <li>
+Continuous process improvement to reduce waste across the value chain 
+    </li>
+    <li>     
+Institutionalization of good practices 
+    </li>
+    <li>
+    Zero tolerance for unethical practices  
+    </li>
+</ul>
+</div>
                                 <div class="col-md-6">
                                     <h2>Quality Assurance</h2>
                                     <div class="divider-deco"><span></span></div>
-                                    We are committed to providing high-quality services that meet or exceed the expectations of our customers. Our ISO 14001:2015 certification and ICV AUP verification show that our processes are regularly audited and verified to ensure that we are meeting the highest standards of quality.							
-                                </div>
+                                    <h4>To excel in customer satisfaction by:</h4>
+                                    <ul>
+    <li>
+    Developing and partnering with our service providers for enhancing quality service.
+    </li>
+    <li>
+    Continuous updating of technology to provide world class service.
+    </li>
+    <li>     
+    Total employee involvement and development.
+    </li>
+    <li>     
+    Encouraging team building for improved efficiency.
+    </li>
+    <li>
+    Using the best methods for problem solving and continuous improvement. 
+    </li>
+</ul>                                </div>
 
                                 <div class="divider-single"></div>
 
