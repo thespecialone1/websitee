@@ -35,7 +35,7 @@ require("./partials/header-1.php");
                     <div class="row">
                         <div class="col-md-6">
 
-                            <img src="img/trucks/abt.jpg" alt="" class="wow slideInUp" />
+                            <img src="img/trucks/about.jpg" alt="" class="wow slideInUp" />
 
                         </div>
 
