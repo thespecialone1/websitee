@@ -412,3 +412,18 @@ border:solid 1px rgba(255,255,255,.1);
 .news-list-date .date .day, .news-list-date .date .month{
 color:#333;
 }
+
+
+@media only screen and (max-width: 990px){
+	.height90px{
+		height: auto !important;
+	}
+	.mobile-fix{
+		margin-top: 0px;
+	}
+	
+	.mobile-fix .container .row-fluid{
+		display: flex;
+		flex-direction: column;
+	}
+}

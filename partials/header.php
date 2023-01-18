@@ -104,7 +104,8 @@
                                     <h1 class="text-ultra-big wow fadeInRight" data-wow-duration="1.5s">
                                         <span class="id-color">Efficient and Reliable transportation solutions</span><br>
                                         BALAYARA GENERAL<br>
-                                        TRANSPORT</h1>
+                                        TRANSPORT
+                                    </h1>
                                     <a href="contact.php" class="btn btn-custom wow fadeInUp" data-wow-duration="2s">Get Rate Quote</a>
                                 </div>
                                 <div class="divider-double"></div>
@@ -116,7 +117,7 @@
             <!-- section close -->
 
 
-            <section class="no-padding mt-90 height90px bg111111 mobile-hide" aria-label="info-box">
+            <section class="no-padding mt-90 height90px bg111111 mobile-fix" aria-label="info-box">
                 <div class="container">
                     <div class="row-fluid">
                         <div class="col-md-4">
@@ -135,7 +136,7 @@
                                 <div class="info-box_text">
                                     <div class="info-box_title">Our Location</div>
                                     <div class="info-box_subtite">Elite Business Zone Investment Block A,
-Musaffah 44, ABU DHABI, UAE</div>
+                                        Musaffah 44, ABU DHABI, UAE</div>
                                 </div>
                             </div>
                         </div>
