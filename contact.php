@@ -39,28 +39,26 @@ require("./partials/header-1.php");
                                     <div class="row">
                                         <div class="col-md-2">
                                             Head Quarter
-										<h3>New York,<br>
-                                            USA</h3>
+										<h3>ABU DHABI,<br>
+                                            UAE</h3>
                                         </div>
                                         <div class="col-md-2">
                                             <h5>Address</h5>
-                                            777 Street Fourth Avenue Somewhere Over Rainbow<br>
-                                            <span class="btn-arrow btn-open-map"><span class="line"></span><span class="url">View on Map</span></span>
+                                            Elite Business Zone Investment Block A, Musaffah 44<br>
 
                                         </div>
                                         <div class="col-md-2">
                                             <h5>Phone</h5>
-                                            +22 090 1777 1999<br>
-                                            +22 090 1777 1999
+                                            + 971-2-5543371 <br>
+                                            +971 56 1347353
                                         </div>
                                         <div class="col-md-2">
                                             <h5>Fax</h5>
-                                            (77) 2222 0900 1777<br>
-                                            (77) 2222 0900 1777
+                                            + 971-2-5541127
                                         </div>
                                         <div class="col-md-2">
                                             <h5>Email</h5>
-                                            office@exotheme.com
+                                            balayara@hotmail.com
                                         </div>
                                         <div class="col-md-2">
                                             <h5>Social Media</h5>
@@ -88,29 +86,25 @@ require("./partials/header-1.php");
 
                                     <div class="row">
                                         <div class="col-md-2">
-                                            Brand Office
-										<h3>Munich,<br>
-                                            Germany</h3>
+                                            OWNER
+										<h3>ABDULLA RASHID ALMANSOORI</h3>
                                         </div>
                                         <div class="col-md-2">
                                             <h5>Address</h5>
-                                            777 Street Fourth Avenue Somewhere Over Rainbow<br>
-                                            <span class="btn-arrow btn-open-map"><span class="line"></span><span class="url">View on Map</span></span>
+                                            Elite Business Zone Investment Block A, Musaffah 44
 
                                         </div>
                                         <div class="col-md-2">
                                             <h5>Phone</h5>
-                                            +22 090 1777 1999<br>
-                                            +22 090 1777 1999
+                                            +971 50 1122445
                                         </div>
                                         <div class="col-md-2">
                                             <h5>Fax</h5>
-                                            (77) 2222 0900 1777<br>
-                                            (77) 2222 0900 1777
+                                            + 971-2-5541127
                                         </div>
                                         <div class="col-md-2">
                                             <h5>Email</h5>
-                                            office@exotheme.com
+                                            balayara@hotmail.com
                                         </div>
                                         <div class="col-md-2">
                                             <h5>Social Media</h5>
@@ -126,10 +120,6 @@ require("./partials/header-1.php");
                                         </div>
 
                                     </div>
-                                </div>
-
-                                <div class="map-container">
-                                    <div id="map-2"></div>
                                 </div>
                             </div>
 
@@ -138,29 +128,24 @@ require("./partials/header-1.php");
 
                                     <div class="row">
                                         <div class="col-md-2">
-                                            Head Quarter
-										<h3>London,<br>
-                                            England</h3>
+                                            GENERAL MANAGER
+										<h3>Muhammed Usman</h3>
                                         </div>
                                         <div class="col-md-2">
                                             <h5>Address</h5>
-                                            777 Street Fourth Avenue Somewhere Over Rainbow<br>
-                                            <span class="btn-arrow btn-open-map"><span class="line"></span><span class="url">View on Map</span></span>
-
+                                            Elite Business Zone Investment Block A, Musaffah 44
                                         </div>
                                         <div class="col-md-2">
                                             <h5>Phone</h5>
-                                            +22 090 1777 1999<br>
-                                            +22 090 1777 1999
+                                            +971-52-7171973
                                         </div>
                                         <div class="col-md-2">
                                             <h5>Fax</h5>
-                                            (77) 2222 0900 1777<br>
-                                            (77) 2222 0900 1777
+                                            + 971-2-5541127
                                         </div>
                                         <div class="col-md-2">
                                             <h5>Email</h5>
-                                            office@exotheme.com
+                                            balayara@hotmail.com
                                         </div>
                                         <div class="col-md-2">
                                             <h5>Social Media</h5>
@@ -177,9 +162,10 @@ require("./partials/header-1.php");
 
                                     </div>
                                 </div>
-
                                 <div class="map-container">
-                                    <div id="map-3"></div>
+                                    <div id="map-3">
+                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3635.009880269572!2d54.472081614257455!3d24.346148484299093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e405eeee92e83%3A0xec5e3e72ef2bb44c!2sElite%20Business%20Zone%20Investment!5e0!3m2!1sen!2sus!4v1674047874330!5m2!1sen!2sus" width="1200" height="800" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                    </div> 
                                 </div>
                             </div>
 
@@ -247,9 +233,13 @@ require("./partials/header-1.php");
                     </div>
                 </div>
             </section>
-
-        </div>
+            <div>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3635.009880269572!2d54.472081614257455!3d24.346148484299093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e405eeee92e83%3A0xec5e3e72ef2bb44c!2sElite%20Business%20Zone%20Investment!5e0!3m2!1sen!2sus!4v1674047874330!5m2!1sen!2sus" width="2100" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+    </p>
     </div>
+    <p>
+   
     <!-- content close -->
     <?php
 require("./partials/footer.php");
