@@ -28,8 +28,8 @@
                         <div id="logo">
                             <div class="inner">
                                 <a href="/index.php">
-                                    <img src="/img/logo.png" alt="" class="logo-1">
-                                    <img src="/img/logo.png" alt="" class="logo-2">
+                                    <img src="img/trucks/logo5.png" alt="" class="logo-1">
+                                    <img src="img/trucks/logo5.png" alt="" class="logo-2">
                                 </a>
 
                             </div>
@@ -46,7 +46,7 @@
                                 <li><a href="/index.php">Home</a>
                                 </li>
                                 <li><a href="/services/services.php">Services</a>
-                                    <ul>
+                                    <!-- <ul>
                                         <li><a href="services-2.html">Petroleum Materials Land Transportation</a></li>
                                         <li><a href="#">Waste Material's Transportation</a>
                                             <ul>
@@ -63,7 +63,7 @@
                                                 <li><a href="service-details-alt-2.html">Heavy Trucks</a></li>
                                             </ul>
                                         </li>
-                                    </ul>
+                                    </ul> -->
                                 </li>
                                 <li><a href="/about.php">About Us</a>
                                 </li>
