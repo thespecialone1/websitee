@@ -65,6 +65,8 @@
                                         </li>
                                     </ul> -->
                                 </li>
+                                <li><a href="/index.php">Clients</a>
+                                </li>
                                 <li><a href="/about.php">About Us</a>
                                 </li>
                                 <li><a href="#">News</a>
@@ -74,7 +76,7 @@
                                     </ul>
                                 </li>
                                 <li><a href="gallery.html">Gallery</a></li>
-                                <li><a href="contact.html">Contact</a></li>
+                                <li><a href="contact.html">Contact Us</a></li>
                             </ul>
                         </nav>
                         <!-- mainmenu close -->

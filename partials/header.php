@@ -46,7 +46,7 @@
                                 <li><a href="/index.php">Home</a>
                                 </li>
                                 <li><a href="/service-details.php">Services</a>
-                                    <ul>
+                                    <!-- <ul>
                                         <li><a href="services-2.html">Petroleum Materials Land Transportation</a></li>
                                         <li><a href="#">Waste Material's Transportation</a>
                                             <ul>
@@ -60,18 +60,20 @@
                                             <ul>
                                                 <li><a href="service-details-alt-2.html">Light Trucks</a></li>
                                                 <li><a href="service-details-alt-2.html">Heavy Trucks</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
+                                            </ul> -->
+                                        <!-- </li>
+                                    </ul> -->
+                                </li>
+                                <li><a href="/index.php">Clients</a>
                                 </li>
                                 <li><a href="about.php">About Us</a>
-                                    <ul>
+                                    <!-- <ul>
                                         <li><a href="people.html">People</a></li>
                                         <li><a href="testimonials.html">Testimonials</a></li>
-                                    </ul>
+                                    </ul> -->
                                 </li>
                                 <li><a href="gallery.html">Gallery</a></li>
-                                <li><a href="contact.php">Contact</a></li>
+                                <li><a href="contact.php">Contact Us</a></li>
                             </ul>
                         </nav>
                         <!-- mainmenu close -->

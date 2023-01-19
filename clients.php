@@ -13,8 +13,8 @@ require("./partials/header-1.php");
                             <div class="crumb">
                                 <div>
                                     <ul>
-                                        <li><a href="index-2.html">Home</a></li>
-										<li><a href="about.html">About</a></li>
+                                        <li><a href="index.php">Home</a></li>
+										<li><a href="about.php">About</a></li>
                                         <li>Clients</li>
                                     </ul>
                                 </div>
@@ -46,56 +46,13 @@ of customer satisfaction.</p>
 							
 							<div class="divider-double"></div>
 							
-							<h2>They Says</h2>
-							<div class="divider-deco"><span></span></div>
-							<div id="testi-carousel-2" class="testi-slider wow fadeIn" data-wow-delay="0s" data-wow-duration="1s">
-                                <div class="item">
-                                    <blockquote>
-                                        Gocargo people professional and courteous attitude, expert knowledge and patience handling our specific issues are very important to our customer
-
-                                    </blockquote>
-                                    <div class="arrow-down"></div>
-                                    <div class="testi-by">
-                                        <img src="img/about/testimonials/testimonial-1.jpg" class="img-circle" alt="">
-                                        <span class="name"><strong>Jane Salima</strong>, General Manager<br>
-                                            Nexus Motors</span>
-                                    </div>
-                                </div>
-
-                                <div class="item">
-                                    <blockquote>
-                                        Your representatives have very helpful attitude and their attention to detail help us to move our work smoothly without any delay...good job guys
-
-                                    </blockquote>
-                                    <div class="arrow-down"></div>
-                                    <div class="testi-by">
-                                        <img src="img/about/testimonials/testimonial-2.jpg" class="img-circle" alt="">
-                                        <span class="name"><strong>Dave Smith</strong>, Sales Manager<br>
-                                            Jepara Furniture</span>
-                                    </div>
-                                </div>
-
-                                <div class="item">
-                                    <blockquote>
-                                        I'm really impressed by the professionalism that the Gocargo relocation. Now we stay with our new studio at Metro city thanks Gocargo
-
-                                    </blockquote>
-                                    <div class="arrow-down"></div>
-                                    <div class="testi-by">
-                                        <img src="img/about/testimonials/testimonial-3.jpg" class="img-circle" alt="">
-                                        <span class="name"><strong>Mike Martien</strong>, Web Designer<br>
-                                            Bamskies Studio</span>
-                                    </div>
-                                </div>
-
-                            </div>
                         </div>
 
 					<div class="col-md-6">
 						<div class="row">
-							<div class="col-md-4 mb30">
+							<!-- <div class="col-md-4 mb30">
 								<img src="img/clients/adnoc.png" class="img-responsive" alt="">
-							</div>
+							</div> -->
 							
 							<div class="col-md-4 mb30">
 								<img src="img/clients/bgc.png" class="img-responsive" alt="">
@@ -105,29 +62,209 @@ of customer satisfaction.</p>
 								<img src="img/clients/cgc.png" class="img-responsive" alt="">
 							</div>
 							
+                            <div class="col-md-4 mb30">
+								<img src="img/clients/adnoc.png" class="img-responsive" alt="">
+							</div>
+<div class="col-md-4 mb30">
+								<img src="img/clients/modulargc.webp" class="img-responsive" alt="">
+							</div>
 							<div class="col-md-4 mb30">
 								<img src="img/clients/npc.webp" class="img-responsive" alt="">
 							</div>
 							
-							<div class="col-md-4 mb30">
-								<img src="img/clients/modulargc.webp" class="img-responsive" alt="">
-							</div>
+							
 							
 							<div class="col-md-4 mb30">
 								<img src="img/clients/trojan.png" class="img-responsive" alt="">
 							</div>
 							
-							<div class="col-md-4 mb30">
-								<img src="img/clients/resized/adnoc.png" class="img-responsive" alt="">
-							</div>
+							
 						</div>
 					</div>
                         
                     </div>
+                 </div>
 
-
+                <div>
+                
                 </div>
+
+            
+
+
+            <div class="container">
+                <div class="row col-md-6">
+                <style>
+                    
+.styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.styled-table thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+}
+
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+
+.styled-table tbody tr.active-row {
+    font-weight: bold;
+    color: #009879;
+}
+                </style>
+            <table class="styled-table">
+    <thead>
+        <h2>PREVIOUS AND CURRENT EXPERIENCE WITH CLIENTS
+</h2>
+        <tr>
+            <th>Project Title</th>
+            <th>Client</th>
+            <th>Scope of Work</th>
+            <th>Status</th>
+            <th>Completed Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Fuel Distribution</td>
+            <td>ADNOC</td>
+            <td>Transportation of
+Petroleum Products in
+Abu Dhabi
+</td>
+            <td>Ongoing from
+2016
+</td>
+            <td>JUNE 2018</td>
+        </tr>
+        <tr class="active-row">
+            <td>AL REEF VILLAS</td>
+            <td>TROJAN
+GENERAL
+CONTRACTING</td>
+            <td>Renting of 60T mobile
+crane with operator &
+Collection waste by 2xl</td>
+            <td>Ongoing from
+26/07/2018</td>
+            <td>ongoing...</td>
+        </tr>
+        <tr class="active-row">
+            <td>AL RAHA PROJECT</td>
+            <td>National Project
+Construction</td>
+            <td>Removal of
+Concrete Waste</td>
+            <td>Ongoing from
+2009</td>
+            <td>ongoing...</td>
+        </tr>
+        <tr>
+            <td>4 HYDRA TWOER
+</td>
+            <td>TROJAN
+GENERAL
+CONTRACTING</td>
+            <td>Distribution of potable
+water</td>
+            <td>Ongoing from 
+2010</td>
+            <td>2018</td>
+        </tr>
+        <tr class="active-row">
+            <td>Non-Drinking water
+supply</td>
+            <td>House
+Engineering
+contracting</td>
+            <td>Non-Drinking water
+supply
+</td>
+            <td>Ongoing from 2018</td>
+            <td>ongoing...</td>
+        </tr>
+        <tr>
+            <td>6 Potable water supply
+</td>
+            <td>GHANTOOT
+TRANSPORT &
+GEN.CONT.EST</td>
+            <td>Removal of sewage
+water from client site</td>
+            <td>Ongoing from 2016</td>
+            <td>Completed</td>
+        </tr>
+        <tr>
+            <td>Tankers for
+sewage water
+removal</td>
+            <td>TROJAN
+GENERAL
+CONTRACTING</td>
+            <td>Removal of sewage
+water from client site</td>
+            <td>Ongoing from 2018</td>
+            <td>Completed</td>
+        </tr>
+        
+        <tr class="active-row">
+            <td>Tankers for
+sewage water
+removal</td>
+            <td>HI-TECH
+CONCRETE</td>
+            <td>Removal of sewage
+water from client site</td>
+            <td>Ongoing from 2008</td>
+            <td>ongoing...</td>
+        </tr>
+        <tr class="active-row">
+            <td>Al Falah Health Care</td>
+            <td>Al Falah
+Properties &
+Ready Max</td>
+            <td>Removal of Concrete
+Waste</td>
+            <td>Ongoing from 2016</td>
+            <td>ongoing...</td>
+        </tr>
+        <tr class="active-row">
+            <td>Villas at Al Mirfa </td>
+            <td>Combined Group Contracting Co</td>
+            <td>Removal of Concrete
+Waste
+</td>
+            <td>Ongoing from 2018</td>
+            <td>Completed</td>
+        </tr>
+        <!-- and so on... -->
+    </tbody>
+</table>
+</div>
+            </div>
             </section>
+
 
             <!-- section begin -->
             <section id="section-cta-2" class="cta light-text" data-stellar-background-ratio="0.5" class="light-text">
