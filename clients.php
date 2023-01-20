@@ -106,7 +106,7 @@ of customer satisfaction.</p>
 }
 
 .styled-table thead tr {
-    background-color: #009879;
+    background-color: #e3d322;
     color: #ffffff;
     text-align: left;
 }
