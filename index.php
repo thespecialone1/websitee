@@ -11,7 +11,7 @@ require("./partials/header.php");
                 <div class="tiny-border margintop10 marginbottom10"></div>
                 <img src="/img/trucks/petroleum.png" width="255"   height="570" class="img-responsive margintop20 marginbottom20 wow fadeInRight " alt="" />
                 <p>Petroleum materials and land transportation in UAE and outside of UAE</p>
-                <a href="service-details.php" style="margin-top:0.45rem" class="btn-arrow hover-light"><span class="line"></span><span class="url">View Details</span></a>
+                <a href="/services.php" style="margin-top:0.45rem" class="btn-arrow hover-light"><span class="line"></span><span class="url">View Details</span></a>
             </div>
         </div>
 
@@ -23,7 +23,7 @@ require("./partials/header.php");
                 <img src="img/trucks/waste.png" width="255"   height="570" class="img-responsive margintop20 marginbottom20 wow fadeInRight" data-wow-delay=".3s" alt="" />
                 <p> Building Demolition and Other Constructions and Debris Clearing
                 </p>
-                <a href="service-details.php" style="margin-top:2.8rem" class="btn-arrow hover-light"><span class="line"></span><span class="url">View Details</span></a>
+                <a href="/services.php" style="margin-top:2.8rem" class="btn-arrow hover-light"><span class="line"></span><span class="url">View Details</span></a>
             </div>
         </div>
 
@@ -33,7 +33,8 @@ require("./partials/header.php");
                 <div class="tiny-border margintop10 marginbottom10"></div>
                 <img src="img/trucks/offshore.png" width="255"   height="570" class="img-responsive margintop20 marginbottom20 wow fadeInRight" data-wow-delay=".6s" alt="" />
                 <p>Onshore and offshore oil and gas fields and facilities services</p>
-                <a href="service-details.php" class="btn-arrow hover-light"><span class="line"></span><span class="url">View Details</span></a>
+                <br>
+                <a href="/services.php" class="btn-arrow hover-light"><span class="line"></span><span class="url">View Details</span></a>
             </div>
         </div>
 
@@ -43,7 +44,8 @@ require("./partials/header.php");
                 <div class="tiny-border margintop10 marginbottom10"></div>
                 <img src="img/services/8.png" width="255"   height="570" class="img-responsive margintop20 marginbottom20 wow fadeInRight" data-wow-delay=".9s" alt="" />
                 <p>Transport of materials, assembly of heavy & light trucks</p>
-                <a href="service-details.php" class="btn-arrow hover-light"><span class="line"></span><span class="url">View Details</span></a>
+                <br>
+                <a href="/services.php" class="btn-arrow hover-light"><span class="line"></span><span class="url">View Details</span></a>
             </div>
         </div>
 
@@ -78,26 +80,26 @@ require("./partials/header.php");
                             <div class="row">
                                 <div class="col-md-6">
                                     <h3><span class="id-color">Vision</span></h3>
-                                    <p>
+                                    <p class="text-white">
                                         To create integrated supply chain for our customers by providing a high quality and cost-effective logistics
                                         services locally, which will be the best of its class in the industry with respect to practices and
                                         procedures.
                                         <br>
                                         <br>
 
-                                        <a href="#" class="btn btn-custom">Read More</a>
+                                        <a href="/about.php" class="btn btn-custom">Read More</a>
                                     </p>
                                 </div>
 
                                 <div class="col-md-6">
                                     <h3><span class="id-color">Mission</span></h3>
-                                    <p>
+                                    <p class="text-white">
                                         Our mission is to provide our customers with high-quality, safe, and reliable transportation and assembly services for heavy and light trucks. We strive to be the best in our field by continuously innovating and improving our services and processes, and by building strong relationships with our customers and partners.
 
                                         <br>
                                         <br>
 
-                                        <a href="#" class="btn btn-custom">Read More</a>
+                                        <a href="/about.php" class="btn btn-custom">Read More</a>
                                     </p>
                                 </div>
                             </div>
@@ -170,7 +172,7 @@ require("./partials/header.php");
                                     storage, and value-added services.
                                 </p>
                                 <br><br>
-                                <a href="#" class="btn btn-custom">Read More</a>
+                                <a href="/services.php" class="btn btn-custom">Read More</a>
 
                             </div>
                         </div>
@@ -228,10 +230,10 @@ require("./partials/header.php");
                 <div class="padding30 overlaydark80 wow fadeIn">
                     <div class="row">
                         <div class="col-md-10">
-                            <h2 class="mb0 mt10">Contact us now to get quote for all your global shipping needs</h2>
+                            <h2 class="mb0 mt10">Contact us now to get quote for all your transportation needs</h2>
                         </div>
                         <div class="col-md-2 text-right">
-                            <a href="#" class="btn btn-custom">Contact Us</a>
+                            <a href="/contact.php" class="btn btn-custom">Contact Us</a>
                         </div>
                     </div>
                 </div>

@@ -182,10 +182,10 @@ require("./partials/header-1.php");
                             <div class="light-text">
                                 <div class="bg-2 padding30">
 
-                                    <h2 class="id-color">Gocargo Commitment</h2>
+                                    <h2 class="id-color">BALAYARA Commitment</h2>
                                     <div class="tiny-border"></div>
                                     <p class="lead big">
-                                        <i>Fell free to asking about Gocargo or Just say hello to us </i>
+                                        <i>Fell free to asking about Balayara or Just say hello to us </i>
                                     </p>
                                     <div class="text-center">
                                         <img src="img/contact/truck.png" alt="">

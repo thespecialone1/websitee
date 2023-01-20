@@ -45,7 +45,7 @@
                             <ul id="mainmenu">
                                 <li><a href="/index.php">Home</a>
                                 </li>
-                                <li><a href="/services/services.php">Services</a>
+                                <li><a href="/services.php">Services</a>
                                     <!-- <ul>
                                         <li><a href="services-2.html">Petroleum Materials Land Transportation</a></li>
                                         <li><a href="#">Waste Material's Transportation</a>
@@ -65,18 +65,13 @@
                                         </li>
                                     </ul> -->
                                 </li>
-                                <li><a href="/index.php">Clients</a>
+                                <li><a href="/clients.php">Clients</a>
                                 </li>
                                 <li><a href="/about.php">About Us</a>
                                 </li>
-                                <li><a href="#">News</a>
-                                    <ul>
-                                        <li><a href="news.html">News Layout 1</a></li>
-                                        <li><a href="news-2.html">News Layout 2</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="gallery.html">Gallery</a></li>
-                                <li><a href="contact.html">Contact Us</a></li>
+                               
+                                <li><a href="gallery.php">Gallery</a></li>
+                                <li><a href="contact.php">Contact Us</a></li>
                             </ul>
                         </nav>
                         <!-- mainmenu close -->

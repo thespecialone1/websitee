@@ -40,12 +40,10 @@ solutions provider and a pioneer in the sphere of transportation Service in UAE.
                     <div class="widget">
                         <h3>Useful Links</h3>
                         <ul class="list-1-col">
-                            <li><a href="#">Services</a></li>
-                            <li><a href="#">Contact Us</a></li>
-                            <li><a href="#">Disclaimer</a></li>
-                            <li><a href="#">Careers</a></li>
-                            <li><a href="#">Privacy Policy</a></li>
-                            <li><a href="#">Location</a></li>
+                            <li><a href="/services.php">Services</a></li>
+                            <li><a href="/contact.php">Contact Us</a></li>
+                            <li><a href="/about.php">About Us</a></li>
+                            <li><a href="/contact.php">Location</a></li>
                         </ul>
 
                     </div>

@@ -142,10 +142,8 @@ Institutionalization of good practices
                                         <i>We are commited to be the leading logistic solutions provider to our customer. We continually improving & implementing  a quality management to achieve it
 to achieve it</i>
                                     </p>
-                                    <img src="img/about/signature.png" alt="">
                                     <div class="divider-single"></div>
-                                    <strong>John Rukman</strong>, Vice President<br>
-                                    Gocargo Inc						
+                                    					
 								<br>
                                     <br>
                                     <br>

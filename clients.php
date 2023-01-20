@@ -14,7 +14,7 @@ require("./partials/header-1.php");
                                 <div>
                                     <ul>
                                         <li><a href="index.php">Home</a></li>
-										<li><a href="about.php">About</a></li>
+										
                                         <li>Clients</li>
                                     </ul>
                                 </div>
@@ -274,10 +274,10 @@ Waste
                             <div class="padding30 overlaydark80 wow fadeIn">
                                 <div class="row">
                                     <div class="col-md-10">
-                                        <h2 class="mb0 mt10">Contact us now to get quote for all your global shipping needs</h2>
+                                        <h2 class="mb0 mt10">Contact us now to get quote for all your transportation needs</h2>
                                     </div>
                                     <div class="col-md-2 text-right">
-                                        <a href="#" class="btn btn-custom">Contact Us</a>
+                                        <a href="/contact.php" class="btn btn-custom">Contact Us</a>
                                     </div>
                                 </div>
                             </div>
