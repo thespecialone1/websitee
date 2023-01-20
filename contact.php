@@ -234,7 +234,7 @@ require("./partials/header-1.php");
                 </div>
             </section>
             <div>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3635.009880269572!2d54.472081614257455!3d24.346148484299093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e405eeee92e83%3A0xec5e3e72ef2bb44c!2sElite%20Business%20Zone%20Investment!5e0!3m2!1sen!2sus!4v1674047874330!5m2!1sen!2sus" width="2100" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3635.009880269572!2d54.472081614257455!3d24.346148484299093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e405eeee92e83%3A0xec5e3e72ef2bb44c!2sElite%20Business%20Zone%20Investment!5e0!3m2!1sen!2sus!4v1674047874330!5m2!1sen!2sus" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
     </p>
     </div>
