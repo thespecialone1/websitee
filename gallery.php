@@ -35,14 +35,14 @@ require("./partials/header-1.php");
                 <!-- gallery item -->
                 <div class="item illustration">
                     <div class="picframe">
-                        <a href="img/gallery/pic-1.jpg">
+                        <a href="img/gallery/resized/1.jpg">
                             <span class="overlay"></span>
 
                             <span class="pf_text">
                                 <span class="project-name">Military Logistic</span>
                                 <span class="small-border"></span>
                             </span>
-                            <img src="img/gallery/pic-1.jpg" alt="" />
+                            <img src="img/gallery/resized/1.jpg" alt="" />
                         </a>
                     </div>
                 </div>
@@ -51,14 +51,14 @@ require("./partials/header-1.php");
                 <!-- gallery item -->
                 <div class="item mobile website">
                     <div class="picframe">
-                        <a href="img/gallery/pic-2.jpg">
+                        <a href="img/gallery/resized/4.jpg">
                             <span class="overlay"></span>
 
                             <span class="pf_text">
                                 <span class="project-name">Our Heavy Truck</span>
                                 <span class="small-border"></span>
                             </span>
-                            <img src="img/gallery/pic-2.jpg" alt="" />
+                            <img src="img/gallery/resized/4.jpg" alt="" />
                         </a>
                     </div>
                 </div>
@@ -67,14 +67,14 @@ require("./partials/header-1.php");
                 <!-- gallery item -->
                 <div class="item website mobile">
                     <div class="picframe">
-                        <a href="img/gallery/pic-3.jpg">
+                        <a href="img/gallery/resized/6.jpg">
                             <span class="overlay"></span>
 
                             <span class="pf_text">
                                 <span class="project-name">Ocean Freight Cargo</span>
                                 <span class="small-border"></span>
                             </span>
-                            <img src="img/gallery/pic-3.jpg" alt="" />
+                            <img src="img/gallery/resized/6.jpg" alt="" />
                         </a>
                     </div>
                 </div>
@@ -83,14 +83,14 @@ require("./partials/header-1.php");
                 <!-- gallery item -->
                 <div class="item illustration photography">
                     <div class="picframe">
-                        <a href="img/gallery/pic-4.jpg">
+                        <a href="img/gallery/resized/9.jpg">
                             <span class="overlay"></span>
 
                             <span class="pf_text">
                                 <span class="project-name">Heavy Duty Forklifts</span>
                                 <span class="small-border"></span>
                             </span>
-                            <img src="img/gallery/pic-4.jpg" alt="" />
+                            <img src="img/gallery/resized/8.jpg" alt="" />
                         </a>
                     </div>
                 </div>
@@ -99,14 +99,14 @@ require("./partials/header-1.php");
                 <!-- gallery item -->
                 <div class="item website photography mobile">
                     <div class="picframe">
-                        <a href="img/gallery/pic-5.jpg">
+                        <a href="img/gallery/resized/9.jpg">
                             <span class="overlay"></span>
 
                             <span class="pf_text">
                                 <span class="project-name">Logistics Aircraft</span>
                                 <span class="small-border"></span>
                             </span>
-                            <img src="img/gallery/pic-5.jpg" alt="" />
+                            <img src="img/gallery/resized/9.jpg" alt="" />
                         </a>
                     </div>
                 </div>
@@ -115,14 +115,14 @@ require("./partials/header-1.php");
                 <!-- gallery item -->
                 <div class="item illustration website">
                     <div class="picframe">
-                        <a href="img/gallery/pic-6.jpg">
+                        <a href="img/gallery/resized/10.jpg">
                             <span class="overlay"></span>
 
                             <span class="pf_text">
                                 <span class="project-name">Logistics Leadership Training</span>
                                 <span class="small-border"></span>
                             </span>
-                            <img src="img/gallery/pic-6.jpg" alt="" />
+                            <img src="img/gallery/resized/10.jpg" alt="" />
                         </a>
                     </div>
                 </div>
@@ -131,14 +131,14 @@ require("./partials/header-1.php");
                 <!-- gallery item -->
                 <div class="item illustration photography">
                     <div class="picframe">
-                        <a href="img/gallery/pic-7.jpg">
+                        <a href="img/gallery/resized/11.jpg">
                             <span class="overlay"></span>
 
                             <span class="pf_text">
                                 <span class="project-name">Wood Container</span>
                                 <span class="small-border"></span>
                             </span>
-                            <img src="img/gallery/pic-7.jpg" alt="" />
+                            <img src="img/gallery/resized/11.jpg" alt="" />
                         </a>
                     </div>
                 </div>
@@ -147,14 +147,14 @@ require("./partials/header-1.php");
                 <!-- gallery item -->
                 <div class="item photography mobile">
                     <div class="picframe">
-                        <a href="img/gallery/pic-8.jpg">
+                        <a href="img/gallery/resized/13.jpg">
                             <span class="overlay"></span>
 
                             <span class="pf_text">
                                 <span class="project-name">Railway Transport Logistics</span>
                                 <span class="small-border"></span>
                             </span>
-                            <img src="img/gallery/pic-8.jpg" alt="" />
+                            <img src="img/gallery/resized/13.jpg" alt="" />
                         </a>
                     </div>
                 </div>
@@ -163,14 +163,14 @@ require("./partials/header-1.php");
                 <!-- gallery item -->
                 <div class="item photography mobile">
                     <div class="picframe">
-                        <a href="img/gallery/pic-9.jpg">
+                        <a href="img/gallery/resized/15.jpg">
                             <span class="overlay"></span>
 
                             <span class="pf_text">
                                 <span class="project-name">Cargo Airline</span>
                                 <span class="small-border"></span>
                             </span>
-                            <img src="img/gallery/pic-9.jpg" alt="" />
+                            <img src="img/gallery/resized/15.jpg" alt="" />
                         </a>
                     </div>
                 </div>
