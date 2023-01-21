@@ -8,10 +8,10 @@ padding:90px 0 90px 0;
 #explore-5.side-bg .background-image {background:#1f242e;}
 #explore-6.side-bg .background-image {background:url('../img/bg/bg_side_4.jpg') center;}
 #explore-6{background:#fff;}
-.side-bg.no-bg .background-image{background-image:none !important;}
+.side-bg.no-bg .background-image{background-image:none important;}
 
 #section-quick-quote{background: url('../img/bg/bg_2.jpg') center fixed; background-size:cover;}
-#section-welcome{background: url('../img/trucks/title.png') fixed; background-size:cover;}
+#section-welcome{background: url('../img/gallery/resized/welcom4.jpg') fixed; background-size:cover;}
 #section-counter{background: url('../img/bg/bg_3.jpg') center fixed; background-size:cover;}
 #section-contact-form{background: url('../img/bg/bg_contact_form.jpg') top fixed; background-size:cover;}
 #section-welcome-2{background: url('../img/bg/bg_slider_2.jpg') fixed; background-size:cover;}
