@@ -148,7 +148,7 @@
                                 <i class="fa fa-phone"></i>
                                 <div class="info-box_text">
                                     <div class="info-box_title">Our Phone</div>
-                                    <div class="info-box_subtite">+22 090 1777 1999</div>
+                                    <div class="info-box_subtite">+97125541127</div>
                                 </div>
                             </div>
                         </div>
