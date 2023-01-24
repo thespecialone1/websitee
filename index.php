@@ -4,47 +4,47 @@ require("./partials/header.php");
 
 <!-- section begin -->
 <section class="no-padding">
-    <div class="container-fullwidth" >
-        <div id="box-service-1" class=" one-fourth" style="margin:0">
-            <div class="bg-color-fx padding-5 text-center">
+    <div class="grid-4-by-1">
+        <div id="box-service-1 " class=" custom-grid-item bg-color-fx" style="margin:0">
+            <div class=" padding-5 inner-grid-item text-center">
                 <h3>Petroleum Materials</h3>
                 <div class="tiny-border margintop10 marginbottom10"></div>
-                <img src="/img/trucks/petroleum.png" width="255"   height="570" class="img-responsive margintop20 marginbottom20 wow fadeInRight " alt="" />
+                <img src="/img/trucks/petroleum.png" width="255" height="570" class="img-responsive margintop20 marginbottom20 wow fadeInRight " alt="" />
                 <p>Petroleum materials and land transportation in UAE and outside of UAE</p>
-                <a href="/services.php" style="margin-top:0.45rem" class="btn-arrow hover-light"><span class="line"></span><span class="url">View Details</span></a>
-            </div>
-        </div>
-
-
-        <div id="box-service-2" class="one-fourth" style="margin:0">
-            <div class="bg-color-fx padding-5 text-center">
-                <h3>Waste Cleaning</h3>
-                <div class="tiny-border margintop10 marginbottom10"></div>
-                <img src="img/trucks/waste.png" width="255"   height="570" class="img-responsive margintop20 marginbottom20 wow fadeInRight" data-wow-delay=".3s" alt="" />
-                <p> Building Demolition and Other Constructions and Debris Clearing
-                </p>
-                <a href="/services.php" style="margin-top:2.8rem" class="btn-arrow hover-light"><span class="line"></span><span class="url">View Details</span></a>
-            </div>
-        </div>
-
-        <div id="box-service-3" class=" one-fourth" style="margin:0">
-            <div class="bg-color-fx padding-5 text-center">
-                <h3>Onshore Offshore Expertise</h3>
-                <div class="tiny-border margintop10 marginbottom10"></div>
-                <img src="img/trucks/offshore.png" width="255"   height="570" class="img-responsive margintop20 marginbottom20 wow fadeInRight" data-wow-delay=".6s" alt="" />
-                <p>Onshore and offshore oil and gas fields and facilities services</p>
-                <br>
                 <a href="/services.php" class="btn-arrow hover-light"><span class="line"></span><span class="url">View Details</span></a>
             </div>
         </div>
 
-        <div id="box-service-4" class=" one-fourth" style="margin:0">
-            <div class="bg-color-fx padding-5 text-center">
+
+        <div id="box-service-2" class="custom-grid-item bg-color-fx" style="margin:0">
+            <div class=" padding-5 inner-grid-item text-center">
+                <h3>Waste Cleaning</h3>
+                <div class="tiny-border margintop10 marginbottom10"></div>
+                <img src="img/trucks/waste.png" width="255" height="570" class="img-responsive margintop20 marginbottom20 wow fadeInRight" data-wow-delay=".3s" alt="" />
+                <p> Building Demolition and Other Constructions and Debris Clearing
+                </p>
+                <a href="/services.php" class="btn-arrow hover-light"><span class="line"></span><span class="url">View Details</span></a>
+            </div>
+        </div>
+
+
+
+        <div id="box-service-3" class=" custom-grid-item bg-color-fx" style="margin:0">
+            <div class="padding-5 inner-grid-item text-center">
+                <h3>Onshore Offshore Expertise</h3>
+                <div class="tiny-border margintop10 marginbottom10"></div>
+                <img src="img/trucks/offshore.png" width="255" height="570" class="img-responsive margintop20 marginbottom20 wow fadeInRight" data-wow-delay=".6s" alt="" />
+                <p>Onshore and offshore oil and gas fields and facilities services</p>
+                <a href="/services.php" class="btn-arrow hover-light"><span class="line"></span><span class="url">View Details</span></a>
+            </div>
+        </div>
+
+        <div id="box-service-4" class=" custom-grid-item bg-color-fx " style="margin:0">
+            <div class="padding-5 inner-grid-item text-center">
                 <h3>Transport Assembly Solutions</h3>
                 <div class="tiny-border margintop10 marginbottom10"></div>
-                <img src="img/services/8.png" width="255"   height="570" class="img-responsive margintop20 marginbottom20 wow fadeInRight" data-wow-delay=".9s" alt="" />
+                <img src="img/services/8.png" width="255" height="570" class="img-responsive margintop20 marginbottom20 wow fadeInRight" data-wow-delay=".9s" alt="" />
                 <p>Transport of materials, assembly of heavy & light trucks</p>
-                <br>
                 <a href="/services.php" class="btn-arrow hover-light"><span class="line"></span><span class="url">View Details</span></a>
             </div>
         </div>
