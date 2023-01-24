@@ -659,25 +659,11 @@ h1,
 
 
 @media only screen and (min-width: 990px) {
-	.height90px {
-		height: auto !important;
-	}
-
-	.mobile-fix {
-		margin-top: 0px;
-	}
-
-	.mobile-fix .container .row-fluid {
-		display: flex;
-		flex-direction: column;
-	}
 
 	.grid-4-by-1 {
 		display: grid;
 		grid-template-columns: 1fr 1fr 1fr 1fr;
 	}
-
-
 
 }
 
@@ -690,4 +676,19 @@ h1,
 	flex-direction: column;
 	justify-content: flex-end;
 	align-items: center;
+}
+
+
+@media only screen and (max-width: 990px){
+	.height90px{
+		height: auto !important;
+	}
+	.mobile-fix{
+		margin-top: 0px;
+	}
+	
+	.mobile-fix .container .row-fluid{
+		display: flex;
+		flex-direction: column;
+	}
 }
