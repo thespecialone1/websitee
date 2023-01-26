@@ -1,9 +1,9 @@
 <?php
 
-$api = 'b415da2f5e270fefe036c95e8d88f0c9-f7d687c0-6395611b';
-$url = 'https://api.mailgun.net/v3/mazanlabeeb.tech/messages';
-$from = 'admin@mazanlabeeb.tech';
-$to = 'lahrasab.ramzan36@gmail.com';
+$api = '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';
+$url = 'https://api.sendinblue.com/v3/emailCampaigns';
+$from = 'contact@balayara.ae';
+$to = 'info@balayara.ae';
 
 
 // define variables and set to empty values
