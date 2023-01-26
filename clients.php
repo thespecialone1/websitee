@@ -93,7 +93,7 @@ of customer satisfaction.</p>
 
 
             <div class="container">
-                <div class="row col-md-6">
+                <div class="row col-md-12 table-responsive">
                 <style>
                     
 .styled-table {
