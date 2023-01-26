@@ -70,7 +70,7 @@ require("./partials/header.php");
 
                             <h2>The Most Progressive Company</h2>
                             <div class="divider-deco"><span></span></div>
-                            <p class="lead">BGT is a fast-growing logistics support provider across multiple verticals including Oil & Gas/ petroleum,
+                            <p class="lead">BGT is a fast-growwing logistics support provider across multiple verticals including Oil & Gas/ petroleum,
                                 distribution. BGT was established in 2005 and provides integrated supply chain solutions across UAE.
                                 <br><br>
                                 With our extensive local footprint and strong expertise in supply chain logistics, we offer unparalleled levels
