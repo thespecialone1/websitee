@@ -58,7 +58,7 @@ require("./partials/header-1.php");
                                         </div>
                                         <div class="col-md-2">
                                             <h5>Email</h5>
-                                            balayara@hotmail.com
+                                            info@balayara.ae
                                         </div>
                                         <div class="col-md-2">
                                             <h5>Social Media</h5>
@@ -104,7 +104,7 @@ require("./partials/header-1.php");
                                         </div>
                                         <div class="col-md-2">
                                             <h5>Email</h5>
-                                            balayara@hotmail.com
+                                            info@balayara.ae
                                         </div>
                                         <div class="col-md-2">
                                             <h5>Social Media</h5>
@@ -145,7 +145,7 @@ require("./partials/header-1.php");
                                         </div>
                                         <div class="col-md-2">
                                             <h5>Email</h5>
-                                            balayara@hotmail.com
+                                            info@balayara.ae
                                         </div>
                                         <div class="col-md-2">
                                             <h5>Social Media</h5>
