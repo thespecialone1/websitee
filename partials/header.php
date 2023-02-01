@@ -46,31 +46,12 @@
                                 <li><a href="/index.php">Home</a>
                                 </li>
                                 <li><a href="/services.php">Services</a>
-                                    <!-- <ul>
-                                        <li><a href="services-2.html">Petroleum Materials Land Transportation</a></li>
-                                        <li><a href="#">Waste Material's Transportation</a>
-                                            <ul>
-                                                <li><a href="service-details-1.html">Water & Metal Waste Transportation</a></li>
-                                                <li><a href="service-details-3.html">Concrete Waste Transportation</a></li>
-                                                <li><a href="service-details-4.html">Non-Metalic Waste Transportation</a></li>
-                                                <li><a href="service-details-5.html">Transport & Collectionn of Garbage</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="#">Transport of Materials Assembly</a>
-                                            <ul>
-                                                <li><a href="service-details-alt-2.html">Light Trucks</a></li>
-                                                <li><a href="service-details-alt-2.html">Heavy Trucks</a></li>
-                                            </ul> -->
-                                        <!-- </li>
-                                    </ul> -->
+                                    
                                 </li>
                                 <li><a href="/clients.php">Clients</a>
                                 </li>
                                 <li><a href="about.php">About Us</a>
-                                    <!-- <ul>
-                                        <li><a href="people.html">People</a></li>
-                                        <li><a href="testimonials.html">Testimonials</a></li>
-                                    </ul> -->
+                                    
                                 </li>
                                 <li><a href="gallery.php">Gallery</a></li>
                                 <li><a href="contact.php">Contact Us</a></li>
@@ -148,7 +129,10 @@
                                 <i class="fa fa-phone"></i>
                                 <div class="info-box_text">
                                     <div class="info-box_title">Our Phone</div>
-                                    <div class="info-box_subtite">+97125541127</div>
+                                    <div class="info-box_subtite">+97125541127 
+                                        <br>
+                                         <span>info@balayara.ae</span>
+                                    </div>
                                 </div>
                             </div>
                         </div>
